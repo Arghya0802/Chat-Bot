@@ -1,4 +1,4 @@
-# ChatBot using ChatGPT APIs
+# SynapTalk - ChatBot using ChatGPT APIs
 This is a ChatBot web application built using the ChatGPT API, HTML, CSS, and JavaScript. The ChatBot can interact with users, answer questions, and provide information based on the user's input.
 
 # Features
